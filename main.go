@@ -32,6 +32,9 @@ func main() {
 	j := true
 	fmt.Printf("%t\n\n", j)
 
+	// No. ?
+	fmt.Printf("%b\n", 21)
+
 	// No.5 : menampilkan unicode russia : Я (ya)
 	symbolReverseR := 'Я'
 	fmt.Printf("%c\n", symbolReverseR)
